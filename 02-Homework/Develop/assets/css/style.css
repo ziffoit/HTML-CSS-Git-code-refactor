@@ -78,7 +78,8 @@ figcaption {
   margin-left: 20px;
 }
 
-.benefits {
+/*removed aside class*/
+aside {
   margin-right: 20px;
   padding: 20px;
   clear: both;
