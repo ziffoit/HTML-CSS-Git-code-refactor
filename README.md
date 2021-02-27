@@ -10,7 +10,7 @@
 
 ### Link to deployed application
 
-https://ziffoit.github.io/HTML-CSS-Git-code-refactor-homework/
+https://ziffoit.github.io/HTML-CSS-Git-code-refactor/
 
 ### Link to screenshot
 
