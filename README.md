@@ -1,4 +1,4 @@
-# HTML-CSS-Git-code-refactor-homework
+# HTML-CSS-Git-code-refactor
 
 ## HTML and CSS Refactor
 
